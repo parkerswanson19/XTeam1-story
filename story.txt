@@ -1,1 +1,3 @@
 I am an empty node. For the past three months, I have been very lonely, waiting for someone to define me. I think that I want to be part of a linked list, a doubly-linked list that is. Or maybe I would like to be part of a binary tree, as all those nodes seem to share bonds on many different levels. Wherever I end up, I just want to belong and be happy.
+One day, the lonely Node applies for a job to be in a doubly-linked list. After all, that was his dream
+job since he was a little baby Node. He was walking out of the office when a shady Treap Tree Node came up to him and whispered....
