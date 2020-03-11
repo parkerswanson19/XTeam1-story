@@ -2,5 +2,5 @@ I am an empty node. For the past three months, I have been very lonely, waiting 
 <<<<<<< HEAD
 =======
 It started to happen other nodes were being made. At first I thought to maybe we will be a linked list, but noticed that I was at the top of this list and the others were to the left and right of me. I wondered if this would be a normal binary tree or if it was going to be a balanced binary tree. Maybe a RBT or AVL tree. Lets wait and see.
-Nevermind the others got deleted. ****.
+Nevermind the others got deleted. Then my intuition hit me! I should be a rogue Node. I don't need a data structure to live my best life!  ****.
 >>>>>>> b6f88be1e133ceefb02dc85c1d55bd4c62d34f09
